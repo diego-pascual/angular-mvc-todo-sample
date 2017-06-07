@@ -1,4 +1,6 @@
-# MyApp
+# angular-mvc-todo-sample
+
+An Angular 4 ToDo example with MVC architecture.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
 
